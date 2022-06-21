@@ -94,7 +94,7 @@ Config.DurabilityMultiplier = {
     ['weapon_heavyrifle']           = 0.15,
 
 	-- Light Machine Guns
-	['weapon_mg'] 				    = 0.15, 
+	['weapon_mg'] 				    = 0.15,
 	['weapon_combatmg'] 			= 0.15,
 	['weapon_gusenberg'] 			= 0.15,
 	['weapon_combatmg_mk2'] 		= 0.15,
@@ -255,7 +255,7 @@ WeaponAttachments = {
     ['WEAPON_REVOLVER'] = {
         ['defaultclip'] = {
             component = 'COMPONENT_REVOLVER_CLIP_01',
-            item = 'revovler_defaultclip',
+            item = 'revolver_defaultclip',
         },
         ['vipvariant'] = {
             component = 'COMPONENT_REVOLVER_VARMOD_GOON',
